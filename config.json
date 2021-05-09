@@ -1,0 +1,6 @@
+{
+    "paprika-db-path":"%USERPROFILE%\\AppData\\Local\\Paprika Recipe Manager 3\\Database\\Paprika.sqlite",
+    "food-db-path":"db\\food.db",
+    "valid_units":"['TBSP', 'TSP', 'OZ', 'CUP', 'CLOVE', 'LARGE', 'MEDIUM']",
+    "superfluous_terms":"['CHOPPED', 'FRESH']"
+}
